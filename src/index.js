@@ -35,7 +35,7 @@ panel.onError();
 const loader = new Aoijs.LoadCommands(bot);
 loader.load(bot.cmd,'./src/commands/');
 
-// Require the 'colors.js' file to set up color constants for use throughout the code
+// Require the 'colors.js' file to set up the terminal color.
 require('./colors.js')(loader);
 
 // Load additional functionality from all .js files in the './src/prev' directory
