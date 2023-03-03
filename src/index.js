@@ -1,3 +1,7 @@
+// USED OPENAI CHAT BOT TO ONLY WRITE COMMENTS ALL OTHER CODE IS COPYRIGHTED TO OUR CODING TEAM
+// CONTACT THEM FOR ANY QUESTION contact.ct@supspace.ga
+
+
 // Import required modules
 const Aoijs = require("aoi.js"); // A module for creating Discord bots
 const {Panel} = require("@akarui/aoi.panel"); // A module for creating a web-based control panel for the bot
