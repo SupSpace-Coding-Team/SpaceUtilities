@@ -1,3 +1,6 @@
+// COMMENTS WERE WRITTEN BY OPENAI CHAT BOT THE OTHER CODE IS COPYRIGHT TO OUR TEAM
+// IF YOU HAVE ANY QUESTIONS CONTACT OUR TEAM contact.ct@supspace.ga
+
 // Import necessary modules from Discord.js library
 const { Client, Collection, MessageEmbed, WebhookClient } = require('discord.js');
 
