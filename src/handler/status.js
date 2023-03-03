@@ -1,3 +1,6 @@
+// COMMENTS WERE WRITTEN BY OPENAI CHAT BOT THE OTHER CODE IS COPYRIGHT TO OUR TEAM
+// IF YOU HAVE ANY QUESTIONS CONTACT OUR TEAM contact.ct@supspace.ga
+
 module.exports = [{
     text: "For staff apps", // Set bot activity text to "For staff apps"
     type: "WATCHING", // Set bot activity type to "WATCHING"
